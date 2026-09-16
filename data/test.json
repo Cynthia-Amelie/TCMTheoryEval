@@ -1,0 +1,710 @@
+﻿[
+    {
+        "question_id":  "问题149",
+        "question":  "三焦经气主要来源于哪一经？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳寒水之气\nB:阳明燥金之气\nC:少阳相火之气\nD:太阴湿土之气\nE:厥阴风木之气\nF:少阴肾水之气\nG:心火之气\nH:肺金之气\nI:少阴君火之真阳\nJ:肝木之气",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题117",
+        "question":  "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:行气于三阴，脏腑受气\nB:行血于三阳，脏腑受血\nC:行气于三阳，脏腑受气\nD:温煦三阳，脏腑得温\nE:滋养三阳，脏腑得养\nF:调和阴阳，脏腑平衡\nG:通调水道，脏腑得润\nH:疏泄气机，脏腑通畅\nI:升清降浊，脏腑调和\nJ:固摄气血，脏腑稳固",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题24",
+        "question":  "三焦的主要功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:脏腑功能的调节中心\nB:气血津液的生成场所\nC:水液代谢的主要通道\nD:精气神的汇聚之地\nE:经络系统的枢纽\nF:营卫之气的运行路径\nG:阴阳气血运行的道路\nH:五脏六腑的联络纽带\nI:阴阳平衡的维持机制\nJ:气机升降的调控中枢",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题36",
+        "question":  "太阳经在人体中主要负责什么功能？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:调节水火以维持体温恒定\nB:调节气血以维持体温恒定\nC:调节阴阳以维持体温恒定\nD:调节津液以维持体温恒定\nE:调节脏腑功能以维持体温恒定\nF:调节营卫以维持体温恒定\nG:调节寒热以维持体温恒定\nH:调节表里以维持体温恒定\nI:调节升降以维持体温恒定\nJ:调节精气以维持体温恒定",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题99",
+        "question":  "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:调节水液代谢\nB:宣发卫气\nC:温煦脏腑\nD:统摄血液\nE:濡养筋脉\nF:生化气血\nG:汇聚宗气并上输心肺\nH:通调水道\nI:固摄精气\nJ:推动血液循环",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题296",
+        "question":  "肾主水液代谢功能失常时，最易导致下列哪种病理变化？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:水湿泛溢，肌肤浮肿\nB:水谷不化，脘腹胀满\nC:水液停滞，胸闷气短\nD:自汗盗汗，津液外泄\nE:大便溏泄，完谷不化\nF:骨质疏松\nG:生殖功能减退\nH:胁肋胀痛，腹部胀满\nI:咳嗽气喘，痰多清稀\nJ:小便频数，清长不禁",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题186",
+        "question":  "邪气侵犯募原后，若内陷里虚，可能出现哪些症状？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:头痛、恶寒、发热\nB:胸痛、咳喘、痰多\nC:心悸、失眠、多梦\nD:呕逆、痞满、嘈杂、失血、自利\nE:腹胀、便秘、纳差\nF:眩晕、耳鸣、目赤\nG:身痛、关节酸楚\nH:口干、咽痛、咳嗽\nI:黄疸、尿赤、腹满\nJ:鼻塞、流涕、喷嚏",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题151",
+        "question":  "募原在人体中的位置属于哪一类？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:表\nB:里\nC:太阳\nD:半表半里\nE:阳明\nF:太阴\nG:少阴\nH:厥阴\nI:表里之间\nJ:三焦",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题283",
+        "question":  "少阴病的主要症状表现是？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:发热、口渴、便秘\nB:头痛、恶风、无汗\nC:腹痛、呕吐、腹泻\nD:心悸、胸闷、气短\nE:咽痛、咳嗽、咳痰\nF:恶寒、身踡而利、手足逆冷\nG:头晕、目眩、耳鸣\nH:关节痛、肌肉酸痛\nI:口干、咽燥、尿黄\nJ:烦躁、失眠、多梦",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题41",
+        "question":  "小肠的主要生理功能是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:运化水谷\nB:升清降浊\nC:调和营卫\nD:温煦脏腑\nE:宣发肃降\nF:通调水道\nG:主司呼吸\nH:藏精纳气\nI:分清泌浊\nJ:固摄津液",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题194",
+        "question":  "中气的主要生理功能是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:推动血液运行，调节气血\nB:温煦脏腑，促进消化吸收\nC:固摄精微，防止流失\nD:宣发卫气，抵御外邪\nE:泌别糟粕，蒸为精微之气\nF:通调水道，运化水湿\nG:濡养筋骨，强健肌肉\nH:滋养心神，安神定志\nI:疏泄肝胆，调畅气机\nJ:收敛肺气，肃降清气",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题64",
+        "question":  "太阳经在水液代谢中的主要作用是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:主行卫气而运水\nB:主行营气而运水\nC:主行卫气而化湿\nD:主行宗气而运水\nE:主行元气而通水\nF:主行卫气而化饮\nG:主行营气而通水\nH:主行宗气而化湿\nI:主行元气而化饮\nJ:主行卫气而固表",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题275",
+        "question":  "太阳经与少阴经在运水功能上的主要区别是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳司里下之水，少阴司外上之水\nB:太阳司内上之水，少阴司外下之水\nC:太阳司表中之水，少阴司里中之水\nD:太阳司外下之水，少阴司里上之水\nE:太阳司内下之水，少阴司外上之水\nF:太阳司外上之水，少阴司里下之水\nG:太阳司表上之水，少阴司里上之水\nH:太阳司里上之水，少阴司表下之水\nI:太阳司表下之水，少阴司里下之水\nJ:太阳司内中之水，少阴司外中之水",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题236",
+        "question":  "偏寒的痰饮病多见于哪一经？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳少阴\nB:太阳阳明\nC:厥阴少阳\nD:太阴阳明\nE:少阳太阴\nF:厥阴阳明\nG:太阳厥阴\nH:阳明少阴\nI:少阳少阴\nJ:太阴厥阴",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题23",
+        "question":  "相火的起源主要与哪一经相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳\nB:阳明\nC:少阳\nD:太阴\nE:少阴\nF:太阳、阳明\nG:少阳、太阴\nH:少阴、厥阴\nI:太阳、少阳\nJ:厥阴",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题136",
+        "question":  "湿温初起，邪在气分时应如何辨证？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:辨别表里寒热\nB:区分阴阳虚实\nC:判断气血盛衰\nD:分辨脏腑虚实\nE:识别风寒湿邪\nF:确定病位深浅\nG:分清湿多热多\nH:分析病因病机\nI:评估正邪盛衰\nJ:辨明寒热真假",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题310",
+        "question":  "厥阴在阴阳消长中的作用类似于什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:阴长阳消，如晦朔交替\nB:阴阳平衡，如昼夜更替\nC:阴盛阳衰，如秋冬交替\nD:阳尽阴生，如望晦相接\nE:阴尽阳生，如晦朔相生\nF:阴消阳长，如春夏交替\nG:阴阳互根，如日月轮转\nH:阴退阳进，如冬夏变换\nI:阳盛阴衰，如午夜至晨\nJ:阴阳交感，如四季循环",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题177",
+        "question":  "刘完素关于相火的论述中，将哪些症状归为相火之病？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:发热、口渴、便秘\nB:咳嗽、咽痛、鼻塞\nC:头痛、眩晕、耳鸣\nD:心悸、失眠、多梦\nE:腹痛、腹泻、便溏\nF:恶寒、发热、无汗\nG:腰痛、尿频、尿急\nH:疮疡、痈肿、胸背首面四肢浮肿\nI:胸闷、气短、乏力\nJ:关节疼痛、肌肉酸痛",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题184",
+        "question":  "少阳经虚弱主要影响哪些脏腑的功能？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:肺、肝、脾、肾\nB:心、肺、肝、肾\nC:心、肝、胃、肾\nD:心、肝、脾、肺\nE:心、胆、脾、肾\nF:心、肝、脾、膀胱\nG:心、肝、胃、脾\nH:心、肝、脾、肾\nI:心、肝、脾、大肠\nJ:心、肝、脾、小肠",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题50",
+        "question":  "太阳经在辰戌之岁主要体现为何种性质？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:火热之化\nB:湿土之化\nC:风木之化\nD:燥金之化\nE:温热之化\nF:寒湿之化\nG:热燥之化\nH:湿热之化\nI:寒水之化\nJ:风燥之化",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题195",
+        "question":  "太阴与阳明在中气运转中的关系是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:一升一降，一寒一热\nB:一升一降，一虚一实\nC:一升一降，一阴一阳\nD:一升一降，一燥一湿\nE:一升一降，一清一浊\nF:一升一降，一动一静\nG:一升一降，一气一血\nH:一升一降，一表一里\nI:一升一降，一冷一热\nJ:一升一降，一燥一温",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题339",
+        "question":  "厥阴之寒常导致的病理特点主要表现为？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:气血两虚、痰湿内生\nB:气虚血瘀、寒凝经脉\nC:阳虚寒凝、水湿停滞\nD:肝气郁结、脾虚湿困\nE:阴虚火旺、痰热互结\nF:气滞血虚、寒湿内停\nG:气滞痰凝、湿热蕴结\nH:血瘀气滞、风寒外束\nI:气滞血瘀、痰浊内阻\nJ:气滞湿阻、热毒内蕴",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题346",
+        "question":  "阳明经燥化主要施于哪一经？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳\nB:阳明\nC:少阳\nD:太阴\nE:厥阴\nF:少阴\nG:太阳、太阴\nH:阳明、少阳\nI:少阴、厥阴\nJ:太阳、少阳",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题173",
+        "question":  "少阳经病除本经脏腑外易影响哪个脏腑的功能？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:脾\nB:肺\nC:心\nD:肾\nE:胃\nF:胆\nG:肝\nH:大肠\nI:小肠\nJ:膀胱",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题111",
+        "question":  "阳明经主要负责人体的哪个部位？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:肌肉\nB:皮肤\nC:腠理\nD:筋骨\nE:血脉\nF:脏腑\nG:关节\nH:骨骼\nI:肌腱\nJ:头面",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题80",
+        "question":  "阳分受邪主要影响哪一经？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:阳明胃经\nB:少阳胆经\nC:太阴肺经\nD:少阴肾经\nE:厥阴肝经\nF:太阳小肠经\nG:太阳脾经\nH:阳明大肠经\nI:太阳膀胱经\nJ:少阳三焦经",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题326",
+        "question":  "心肾二脏不易受邪的原因是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:心肾为相傅之官，护卫密实\nB:心肾为仓廪之官，护卫密实\nC:心肾为传导之官，护卫密实\nD:心肾为君主之官，护卫密实\nE:心肾为将军之官，护卫密实\nF:心肾为中正之官，护卫密实\nG:心肾为作强之官，护卫密实\nH:心肾为决渎之官，护卫密实\nI:心肾为受盛之官，护卫密实\nJ:心肾为州都之官，护卫密实",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题175",
+        "question":  "胆气实证主要影响哪一经络？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:足太阳经\nB:足阳明经\nC:足太阴经\nD:足少阴经\nE:手少阳经\nF:手太阳经\nG:手阳明经\nH:手太阴经\nI:足少阳经\nJ:手少阴经",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题342",
+        "question":  "热入血室主要影响哪一经络？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳\nB:阳明\nC:少阳\nD:太阴\nE:少阴\nF:太阳、阳明\nG:阳明、少阳\nH:太阴、少阴\nI:太阳、少阳\nJ:厥阴",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题82",
+        "question":  "卫气不固于外，最易导致下列哪种症状？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:盗汗\nB:无汗\nC:多汗\nD:战汗\nE:黄汗\nF:头汗\nG:手足汗\nH:冷汗\nI:大汗\nJ:自汗",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题4",
+        "question":  "根据六经理论，人体有多少条主要经络？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:六\nB:八\nC:十\nD:十四\nE:十六\nF:十二\nG:十八\nH:二十\nI:二十四\nJ:三十六",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题143",
+        "question":  "少阳经的主要生理功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:助心肾以藏神\nB:调和营卫之气\nC:主司肌肉运动\nD:相火旺盛，助君火化行其令\nE:推动气血运行\nF:调节水液代谢\nG:温煦全身脏腑\nH:固摄精血津液\nI:统摄血液运行\nJ:滋养五脏六腑",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题302",
+        "question":  "少阴经的主要生理功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:运化水谷以化生气血，滋养四肢百骸\nB:宣发肃降以通调水道，输布精微于表\nC:疏泄条达以调畅气机，助脾胃之运化\nD:统摄血液以循行脉内，防止溢于脉外\nE:受纳腐熟以消磨水谷，为气血之化源\nF:主血脉以运行全身，滋养心神之活动\nG:分清泌浊以传导糟粕，主受盛而化物\nH:决断谋虑以主持胆勇，调节情志之变\nI:温分肉以充养皮肤，司开阖而御外邪\nJ:精血之和以充养天癸，促进胎元长育",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题230",
+        "question":  "湿证在不同季节和地域的表现主要与下列哪项因素相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:风寒和暑湿\nB:燥热和湿寒\nC:风热和寒湿\nD:湿热和风湿\nE:湿热和痰湿\nF:湿热和瘀血\nG:寒湿和风燥\nH:湿热和寒湿\nI:寒湿和火毒\nJ:寒湿和燥热",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题113",
+        "question":  "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:调气血，通经络，养筋骨\nB:主血脉，司呼吸，行津液\nC:益精血，强筋骨，固肾气\nD:温阳气，散寒邪，通经脉\nE:疏肝气，调情志，和脾胃\nF:补肺气，宣发肃降，通调水道\nG:生肌肉，运四肢，动关节\nH:养心神，安五脏，调气血\nI:滋阴液，润燥金，清虚火\nJ:助脾运，化湿浊，升清阳",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题215",
+        "question":  "太阴经的平脉特征是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:浮或细弱而短\nB:洪或滑数而长\nC:弦或芤虚而迟\nD:濡或细软而缓\nE:芤或散漫而促\nF:沉或紧大而长\nG:涩或结代而微\nH:伏或牢实而坚\nI:动或疾速而乱\nJ:革或虚浮而空",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题345",
+        "question":  "风胜则动，诸风掉眩皆属于哪一脏？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:心\nB:肝\nC:脾\nD:肺\nE:肾\nF:胆\nG:胃\nH:小肠\nI:大肠\nJ:膀胱",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题102",
+        "question":  "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:温煦脏腑，推动气血\nB:调节气机，疏泄胆汁\nC:滋养筋脉，濡养肌肤\nD:固摄津液，防止外泄\nE:宣发卫气，抵御外邪\nF:运化精微，灌溉四脏\nG:调和营卫，维持体温\nH:主司呼吸，吐故纳新\nI:通调水道，下输膀胱\nJ:藏精纳气，生长发育",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题288",
+        "question":  "虚损之病主要与哪两个脏器相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:肝脾\nB:肺胃\nC:心肾\nD:心肺\nE:肝肾\nF:脾胃\nG:肺肾\nH:心胆\nI:肝胆\nJ:肺脾",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题14",
+        "question":  "六经之气的运化规律主要由哪三个方面决定？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:标气、本气、中气\nB:标气、本气、卫气\nC:标气、营气、中气\nD:标气、宗气、本气\nE:标气、元气、中气\nF:本气、营气、卫气\nG:本气、宗气、中气\nH:本气、元气、标气\nI:营气、卫气、中气\nJ:宗气、元气、中气",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题309",
+        "question":  "厥阴经的主要特点是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:阴气初生，阳气渐退\nB:两阳交尽，阳之极也\nC:阴阳平衡，寒暑交替\nD:阴盛阳衰，寒气为主\nE:一阴一阳，阴阳相合\nF:阴气渐退，阳气渐长\nG:两阴交尽，阴之极也\nH:重阳必阴，而一阴初萌\nI:阴气微弱，阳气旺盛\nJ:阴之动始于清而盛于寒",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题259",
+        "question":  "下列哪项在心主血脉的生理功能中起关键作用？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:肾藏精液奉心化血\nB:脾统血以行全身\nC:肺朝百脉而主治节\nD:肝藏血以调节血量\nE:心主神明以统摄血脉\nF:胃受纳腐熟水谷以化生气血\nG:三焦通行元气以温煦血脉\nH:胆贮藏排泄胆汁以助血液生成\nI:膀胱贮尿排尿以维持血容量\nJ:小肠泌别清浊以参与血液生成",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题120",
+        "question":  "阳明经燥化不足会导致下列哪种症状？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:口干舌燥\nB:便秘尿少\nC:腹中隐痛\nD:胸闷气喘\nE:不消水\nF:咽燥而嗽\nG:唇燥嗌干\nH:皮肤干痛\nI:舌苔白薄而干\nJ:鼻鸣而塞",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题112",
+        "question":  "太阴和阳明之气主要作用于人体的哪个部位？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:头面部和皮肤\nB:胸腹部和筋膜\nC:心肺和血脉\nD:肝胆和筋骨\nE:肾和骨骼\nF:四肢和肌肉\nG:脾胃和消化系统\nH:脑部和神经系统\nI:腰部和肾脏\nJ:背部和脊柱",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题48",
+        "question":  "手足太阳经脉主要循行于人体的哪些部位？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:头、胸、腹、四肢内侧\nB:头、颈、胸、腹部\nC:顶、肩、背、腰、臀及四肢外侧\nD:面、胸、腹、四肢内侧\nE:头、颈、胸、四肢内侧\nF:头、颈、背、四肢内侧\nG:头、肩、胸、四肢内侧\nH:头、肩、腰、四肢内侧\nI:头、肩、背、胸\nJ:头、肩、背、四肢内侧",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题16",
+        "question":  "根据六经承气理论，下列哪一项描述了五行相克关系？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:相火之下，金气承之；水位之下，木气承之\nB:君火之下，土气承之；水位之下，金气承之\nC:相火之下，土气承之；水位之下，火气承之\nD:相火之下，木气承之；水位之下，金气承之\nE:相火之下，风位承之；水位之下，火气承之\nF:相火之下，阴精承之；水位之下，金气承之\nG:相火之下，风气承之；水位之下，木气承之\nH:相火之下，金气承之；水位之下，阴精承之\nI:相火之下，水气承之；水位之下，土气承之\nJ:相火之下，木气承之；水位之下，阴精承之",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题17",
+        "question":  "根据六经运行理论，人体感受外界邪气导致的疾病属于哪种类型？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:自内而外\nB:由表及里\nC:由里及表\nD:内外兼感\nE:外感内伤\nF:自外而内\nG:内外合邪\nH:自上而下\nI:自下而上\nJ:内外交困",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题217",
+        "question":  "太阴不足时，哪一经会提前得政？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:少阳\nB:太阳\nC:阳明\nD:太阴\nE:少阴\nF:厥阴\nG:太阳、阳明\nH:阳明、太阴\nI:少阴、厥阴\nJ:厥阴、太阳",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题303",
+        "question":  "肝肾内损，延及冲任奇脉，会导致下列哪种症状？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:咳喘气促，痰多稀白\nB:经漏淋漓，腰脊痿弱\nC:头晕耳鸣，夜尿频多\nD:腹痛腹泻，四肢不温\nE:心悸失眠，面色苍白\nF:口苦咽干，目眩耳聋\nG:小便不利，下肢浮肿\nH:胸闷气短，咳嗽痰多\nI:口干舌燥，皮肤瘙痒\nJ:头痛眩晕，恶心呕吐",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题45",
+        "question":  "太阳经在水液代谢中的主要功能是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:主司水液的生成\nB:主司水液的贮藏\nC:主司水液的升降流布\nD:主司水液的温化\nE:主司水液的排泄\nF:主司水液的吸收\nG:主司水液的分布\nH:主司水液的转化\nI:主司水液的固摄\nJ:主司水液的输布",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题280",
+        "question":  "少阴经的脉象特点是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:紧细而微\nB:浮大而芤\nC:洪大而数\nD:弦紧而长\nE:滑数有力\nF:沉迟无力\nG:涩滞不畅\nH:濡软无力\nI:芤大中空\nJ:细弱无力",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题53",
+        "question":  "太阳经主要负责人体的哪个部位？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:头部\nB:体表\nC:四肢\nD:胸腹\nE:腰背\nF:脏腑\nG:气血\nH:筋脉\nI:五官\nJ:骨髓",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题72",
+        "question":  "春温伤寒中，实邪多发于哪个部位？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳经表\nB:阳明胃腑\nC:太阴肺脏\nD:少阴心肾\nE:少阳膜原\nF:厥阴肝胆\nG:三焦膜原\nH:膀胱腑表\nI:脾胃中焦\nJ:肺卫表证",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题115",
+        "question":  "阳明经的主要功能与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:调节气血与疏通经络\nB:温煦脏腑与调畅气血\nC:升清降浊与通调水道\nD:宣发肃降与行血活络\nE:运化纳传与燮理阴阳\nF:藏精纳气与调节津液\nG:固摄精微与防御外邪\nH:主司呼吸与滋养筋脉\nI:生发营卫与濡养肌肤\nJ:通调三焦与主持诸气",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题126",
+        "question":  "胸痹之病属于哪一经的典型寒证？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳\nB:少阳\nC:太阴\nD:少阴\nE:厥阴\nF:太阳、阳明\nG:阳明、少阳\nH:太阴、少阴\nI:厥阴、少阳\nJ:阳明",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题141",
+        "question":  "少阳相火的形成与下列哪项密切相关？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:太阳经皮毛受之\nB:肾间真气发生元阳\nC:心主布濩于募原三焦\nD:足少阳胆经传于手少阳\nE:太阳经达于腠理\nF:君火展输于包络\nG:水气生木，木育初阳\nH:由里及表运导于胆\nI:厥阴风木传于手少阳\nJ:三焦与胆经络同气",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题13",
+        "question":  "太阳寒水的中气是？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:少阳相火\nB:阳明燥金\nC:厥阴风木\nD:太阴湿土\nE:太阳寒水\nF:少阳之上\nG:阳明之上\nH:厥阴之上\nI:太阴之上\nJ:少阴君火",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题58",
+        "question":  "三阳为病发寒热，下为痈肿，这里的三阳指的是哪一经？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:阳明\nB:少阳\nC:太阴\nD:少阴\nE:厥阴\nF:阳明、少阳\nG:太阳、阳明\nH:太阳\nI:太阳、少阳\nJ:太阳、太阴",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    },
+    {
+        "question_id":  "问题328",
+        "question":  "厥阴经与少阳经在气火运行中的关系是什么？",
+        "question_keywords":  [
+
+                              ],
+        "question_options":  "A:营卫和谐，共御外邪\nB:气血互生，共荣周身\nC:水火既济，交泰安神\nD:脾胃升降，斡旋中州\nE:肺肾相生，金水互养\nF:心肾相交，坎离既济\nG:肝脾协调，共助运化\nH:经络相通，气血贯注\nI:肝胆相照，互为中气\nJ:三焦通调，水道得行",
+        "question_answer":  "",
+        "six_meridian_options":  "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer":  "",
+        "explanation":  ""
+    }
+]

@@ -1,0 +1,9 @@
+# Runtime dependencies
+requests
+python-dotenv
+dashscope
+
+# Scoring environment reported in the manuscript
+bert-score==0.3.13
+transformers==4.46.3
+torch==2.4.1

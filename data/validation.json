@@ -1,0 +1,827 @@
+[
+    {
+        "question_id": "问题272",
+        "question": "少阴经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "少阴经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:调节气血运行\nB:调节气机升降\nC:调节脏腑功能\nD:调节营卫协调\nE:调节水火升降\nF:调节情志变化\nG:调节津液代谢\nH:调节饮食消化\nI:调节睡眠质量\nJ:调节经络通畅",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "少阴经主要负责调节人体的水火升降，通过心肾之间的真阴真阳相互作用，实现水升火降的生理过程。因此，少阴经的核心功能之一是调节水火的升降平衡。"
+    },
+    {
+        "question_id": "问题221",
+        "question": "脾虚导致的主要症状有哪些？",
+        "question_keywords": [
+            "脾虚",
+            "导致",
+            "主要症状"
+        ],
+        "question_options": "A:纳食之病、四肢倦怠失用\nB:胃痛、腹胀\nC:口干、咽痛\nD:头晕、目眩\nE:心悸、失眠\nF:腰膝酸软、耳鸣\nG:咳嗽、气喘\nH:小便不利、水肿\nI:皮肤瘙痒、湿疹\nJ:鼻塞、流涕",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "D",
+        "explanation": "脾主运化，若脾虚则谷气难消，会出现胃呆不食、食后脘痞等症状。同时，脾主肌肉而运四肢，脾虚会导致四肢倦怠无力。因此，脾虚的主要症状包括纳食之病和四肢倦怠失用。"
+    },
+    {
+        "question_id": "问题351",
+        "question": "癫狂病症主要涉及哪些脏腑？",
+        "question_keywords": [
+            "癫狂病症",
+            "主要涉及",
+            "脏腑"
+        ],
+        "question_options": "A:心肝脾肺\nB:心肾脾胃\nC:肺脾肝胆\nD:心肺肝胃\nE:心脾包络、肝胆胃\nF:心肾肝胆\nG:心肺脾胃\nH:心肝胆肾\nI:心肺肝胆\nJ:心脾肝肾",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B;E;D;C",
+        "explanation": "“癫出积忧积郁，病在心脾包络之阴”，说明癫症与心脾包络有关；而“狂由大惊大恐，病在肝胆胃经”则指出狂症与肝胆胃相关。因此，癫狂病症主要涉及心脾包络和肝胆胃这些脏腑。"
+    },
+    {
+        "question_id": "问题305",
+        "question": "肝肾虚寒的病症多从哪一经辨证？",
+        "question_keywords": [
+            "肝肾虚寒",
+            "病症",
+            "多从哪一经辨证"
+        ],
+        "question_options": "A:太阳太阴\nB:阳明少阳\nC:太阳少阴\nD:阳明厥阴\nE:太阳阳明\nF:太阴阳明\nG:太阳少阳\nH:少阴厥阴\nI:少阴太阴\nJ:阳明太阴",
+        "question_answer": "H",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E;F",
+        "explanation": "“冲任起于胞中，与肝肾相连”，而“若阳气不降，下焦虚寒，地下无阳，则冲任阳虚，亦即肝肾虚寒也”。因此，肝肾虚寒的病症多从少阴和厥阴两经进行辨证。"
+    },
+    {
+        "question_id": "问题297",
+        "question": "少阴经病变多表现为哪种性质的病症？",
+        "question_keywords": [
+            "少阴经病变",
+            "病症",
+            "性质"
+        ],
+        "question_options": "A:暑证\nB:寒证\nC:湿证\nD:燥证\nE:风证\nF:火证\nG:虚证\nH:实证\nI:瘀证\nJ:痰证",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "少阴之脏最易病寒，肾气以温为常，阳弱则生寒，导致气不化、水气失升，从而出现一系列寒证症状，如少腹拘急、腰腹冷痛等。因此，少阴经病变多表现为寒证。"
+    },
+    {
+        "question_id": "问题262",
+        "question": "肾在人体中的主要作用是什么？",
+        "question_keywords": [
+            "肾",
+            "主要作用"
+        ],
+        "question_options": "A:主运化水湿\nB:主藏精养神\nC:主宣发肃降\nD:主通调水道\nE:主统血行血\nF:主升举阳气\nG:主疏泄调气\nH:主统血行气\nI:主化生气血\nJ:主受纳腐熟",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "文本中提到“肾为先天之根，藏精之府”，并且“其精内蕴，其气上腾，以养心存神焉”，说明了肾的主要功能是储存精气并滋养精神。因此，肾的主要作用是藏精养神。"
+    },
+    {
+        "question_id": "问题131",
+        "question": "温热之病多始自哪一经？",
+        "question_keywords": [
+            "温热之病",
+            "多始自",
+            "哪一经"
+        ],
+        "question_options": "A:阳明\nB:太阳\nC:少阳\nD:太阴\nE:少阴\nF:厥阴\nG:太阳、少阳\nH:太阴、少阴\nI:少阳、厥阴\nJ:太阳、太阴",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "温热之病多从阳明开始，与伤寒不同，伤寒多始于太阳。“温热之病则另有其径”、“温热多始自阳明”，说明温热病的起始经络为阳明。"
+    },
+    {
+        "question_id": "问题298",
+        "question": "下列哪项症状与癸水虚少相关？",
+        "question_keywords": [
+            "癸水虚少",
+            "症状",
+            "相关"
+        ],
+        "question_options": "A:发热无汗，口干咽燥，小便短赤，心悸失眠，呕吐黄痰\nB:发热汗出，渴欲饮水，小便不利，心烦不寐，呕逆溲赤\nC:恶寒发热，头痛身痛，咳嗽咳痰，腹胀便秘，溲清长\nD:身热不扬，胸闷纳呆，恶心呕吐，大便溏泻，小便不利\nE:发热恶寒，头身疼痛，咳嗽咯痰，口渴喜饮，小便频数\nF:高热烦躁，神昏谵语，四肢抽搐，大便秘结，小便短赤\nG:头晕目眩，耳鸣腰酸，夜尿频多，遗精滑泄，小便清长\nH:恶寒发热，鼻塞流涕，咳嗽声重，喉痒咽痛，小便清长\nI:口干舌燥，咽喉肿痛，咳嗽少痰，五心烦热，小便黄赤\nJ:胸胁胀满，善太息，情志抑郁，脘腹胀痛，小便不利",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "文本中提到“若癸水虚少，阴火外越，侵累壬水，常见发热汗出，渴欲饮水，小便不利，心烦不寐，呕逆溲赤”，这些症状与少阴经的病变有关。"
+    },
+    {
+        "question_id": "问题57",
+        "question": "太阳经脉的特点是什么？",
+        "question_keywords": [
+            "太阳经脉",
+            "特点"
+        ],
+        "question_options": "A:多气少血\nB:气血两虚\nC:多血少气\nD:气血旺盛\nE:气血平和\nF:气滞血瘀\nG:气虚血少\nH:气盛血多\nI:气弱血旺\nJ:气行血畅",
+        "question_answer": "C",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "太阳经脉“多血少气”，这种特点使得太阳经脉容易发生郁遏，进而导致水湿、热邪等病理产物的生成。因此，太阳经脉的主要特点是“多血少气”。"
+    },
+    {
+        "question_id": "问题93",
+        "question": "阳明经的主要特性表现为下列哪一项？",
+        "question_keywords": [
+            "阳明经",
+            "主要特性"
+        ],
+        "question_options": "A:寒凉之象而少见温热\nB:湿热之象而少见寒凉\nC:温热之象而少见寒凉\nD:风热之象而少见寒凉\nE:燥热之象而少见温热\nF:温凉之象而少见寒热\nG:寒湿之象而少见温热\nH:火热之象而少见寒凉\nI:温燥之象而少见寒凉\nJ:阴寒之象而少见温热",
+        "question_answer": "C",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明经虽名为“燥”，但其功能在于“润”。阳明为阳热集散之地，且承气为相火，常监制阳明不使其过于阴敛，因此阳明经常见温热之象而少见寒凉之候。"
+    },
+    {
+        "question_id": "问题103",
+        "question": "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "阳明经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:运化水湿，调畅气机\nB:宣发卫气，输布津液\nC:藏精纳气，主骨生髓\nD:统血行血，调节经脉\nE:腐熟水谷，化生精微\nF:疏泄肝胆，调畅情志\nG:温煦脏腑，推动气血\nH:宣降肺气，通调水道\nI:固摄精气，司二便开合\nJ:滋养五脏，濡润六腑",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明胃土合二阳而主动，能够蠕动研磨水谷，使之腐熟并生成精微物质，这些精微物质上输至膻中，进一步化生为血液，滋养全身。因此，阳明经的主要功能是腐熟水谷，化生精微。"
+    },
+    {
+        "question_id": "问题250",
+        "question": "右寸弦滑主要提示什么病症？",
+        "question_keywords": [
+            "脉象",
+            "右寸",
+            "弦滑",
+            "主要提示",
+            "病症"
+        ],
+        "question_options": "A:痰热咳嗽\nB:痰饮呕逆\nC:寒湿泄泻\nD:肝火上炎\nE:心悸失眠\nF:脾虚食少\nG:肾虚腰痛\nH:肺燥干咳\nI:气血两虚\nJ:风寒感冒",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "D",
+        "explanation": "“右寸弦滑，痰饮呕逆”，说明右寸脉出现弦滑的脉象时，多提示患者有痰饮和呕逆的症状。痰饮多与太阴经的功能失调有关，因为太阴涉及水液代谢和脏腑功能。"
+    },
+    {
+        "question_id": "问题353",
+        "question": "厥阴病的脉象特征主要表现为？",
+        "question_keywords": [
+            "厥阴病",
+            "脉象特征",
+            "主要表现为"
+        ],
+        "question_options": "A:沉细而弱\nB:浮数有力\nC:弦紧而实\nD:滑数有力\nE:芤脉明显\nF:沉短而散\nG:洪大而芤\nH:迟缓无力\nI:涩脉明显\nJ:微弱欲绝",
+        "question_answer": "F",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "厥阴病的核心在于“郁”，阳气不能正常展开，阴血分布不均，导致脉象呈现沉短而散的特点。这是厥阴病的主要脉象特征。"
+    },
+    {
+        "question_id": "问题110",
+        "question": "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "阳明经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:主筋骨，使关节灵活\nB:主血脉，使气血运行通畅\nC:主皮毛，使皮肤润泽\nD:主肌肉，使四肢强健有力\nE:主气机，使呼吸顺畅\nF:主津液，使水液代谢正常\nG:主神志，使精神充沛\nH:主脏腑，使内脏功能协调\nI:主经络，使经脉畅通无阻\nJ:主五官，使感觉敏锐",
+        "question_answer": "D",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "根据“阳明主肉”，阳明胃经多气多血，能够滋养四肢肌肉，使其强健有力。因此，阳明经的主要生理功能之一是主管肌肉，使四肢得到充分的气血滋养而变得强健有力。"
+    },
+    {
+        "question_id": "问题150",
+        "question": "腠理在六经辨证中属于哪一经的范畴？",
+        "question_keywords": [
+            "腠理",
+            "六经辨证",
+            "所属经范畴"
+        ],
+        "question_options": "A:太阳\nB:阳明\nC:太阴\nD:少阴\nE:厥阴\nF:太阳、阳明\nG:少阳\nH:太阳、太阴\nI:阳明、厥阴\nJ:少阴、厥阴",
+        "question_answer": "G",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "皮毛属表，由太阳所主；肌肉属里，由阳明所主；而两者之间的腠理则属于半表半里，由少阳所主。因此，腠理在六经辨证中归属于少阳经。"
+    },
+    {
+        "question_id": "问题192",
+        "question": "足少阳经虚寒时，脉象常表现为？",
+        "question_keywords": [
+            "足少阳经虚寒时",
+            "脉象常表现为"
+        ],
+        "question_options": "A:弦紧有力\nB:浮大无力\nC:沉细而数\nD:滑数有力\nE:濡弱无力\nF:洪大有力\nG:细涩无力\nH:芤脉无力\nI:弦细无力\nJ:迟缓无力",
+        "question_answer": "I",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "胆经虚寒时，其脉象通常表现为弦细无力。这是因为相火失振，阳气下沉，鼓动不力所致。"
+    },
+    {
+        "question_id": "问题68",
+        "question": "太阳经虚损时，最可能出现的症状是？",
+        "question_keywords": [
+            "太阳经",
+            "虚损",
+            "症状",
+            "最可能出现"
+        ],
+        "question_options": "A:四肢酸痛\nB:胸闷腹胀\nC:咽干口燥\nD:腰背头项痛\nE:头晕目眩\nF:心悸失眠\nG:恶心呕吐\nH:腹泻便溏\nI:小便不利\nJ:关节疼痛",
+        "question_answer": "D",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "太阳经为三阳之首，当太阳经虚损时，阳气不足，易导致外寒入侵，出现腰背头项部位的疼痛。这是因为太阳经循行于这些部位，阳气虚弱不能抵御外邪，从而引发疼痛症状。"
+    },
+    {
+        "question_id": "问题267",
+        "question": "女子月经生理机制与下列哪项相关？",
+        "question_keywords": [
+            "女子",
+            "月经",
+            "生理机制"
+        ],
+        "question_options": "A:阳气应日而一举\nB:阴静海满而潮血\nC:女子血满，阴血应月而一下\nD:阳动应合而泄精\nE:运行无积不满\nF:停止有积而能满\nG:冲为血海\nH:精血朝会\nI:男子运而行之\nJ:女子停而止之",
+        "question_answer": "C",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "“女子以血满，故阴血应月而一下”，说明女子的生理特点是阴血充盈，并且每月有一次月经来潮。这与少阴肾经的功能密切相关，因为肾藏精，主生殖。"
+    },
+    {
+        "question_id": "问题144",
+        "question": "少阳经的主要功能是什么？",
+        "question_keywords": [
+            "少阳经",
+            "主要功能"
+        ],
+        "question_options": "A:聚集阳气\nB:增强阳热\nC:枢转阳气\nD:温养长育\nE:立法决策\nF:行政执行\nG:运行气血\nH:调节阴气\nI:主司寒热\nJ:布散津液",
+        "question_answer": "C",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "少阳主三之气，其主要职责在于“行”、“蕃”、“布”，即枢转阳气，而非单纯聚集或增强阳热。因此，少阳经的核心功能是通过枢转作用来调节和运行阳气。"
+    },
+    {
+        "question_id": "问题191",
+        "question": "少阳伤寒正脉的典型脉象是什么？",
+        "question_keywords": [
+            "少阳伤寒正脉",
+            "典型脉象"
+        ],
+        "question_options": "A:浮大\nB:弦滑而数\nC:缓滞\nD:弦细\nE:虚大\nF:实大\nG:浮取虚大\nH:沉取缓滞\nI:尺滞\nJ:弦紧",
+        "question_answer": "D",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "文本中提到“弦细为少阳伤寒正脉”，说明在少阳病中，典型的脉象是弦细。若相火上亢，则可能出现弦滑而数的脉象，但这不是少阳伤寒的正脉。"
+    },
+    {
+        "question_id": "问题127",
+        "question": "阳明病的主要特征是什么？",
+        "question_keywords": [
+            "阳明病",
+            "主要特征"
+        ],
+        "question_options": "A:胃家虚\nB:胃家实\nC:脾家实\nD:阳明燥热\nE:大肠燥结\nF:脾胃湿热\nG:阳明寒凝\nH:阳明气滞\nI:阳明血瘀\nJ:阳明津亏",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明病的核心特征是“胃家实”，即邪气郁结于胃，导致热聚不解，津液耗伤。阳明主阖，邪入胃后不再传变，燥热内盛，形成实邪。此外，阳明病还表现为身热、汗出、不恶寒反恶热等症状。"
+    },
+    {
+        "question_id": "问题347",
+        "question": "六气之中，哪一种气能够全兼五气？",
+        "question_keywords": [
+            "六气",
+            "全兼五气",
+            "哪一种气"
+        ],
+        "question_options": "A:风\nB:寒\nC:暑\nD:湿\nE:燥\nF:火\nG:寒湿\nH:暑热\nI:燥火\nJ:湿热",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "“六气之中，惟风能全兼五气”，说明风在六气中具有特殊的地位，能够携带其他五种气（寒、暑、湿、燥、火）而伤人。根据中医理论，风与肝相关，而肝属厥阴，因此选择厥阴。"
+    },
+    {
+        "question_id": "问题311",
+        "question": "厥阴经的相火主要通过哪两条途径运展？",
+        "question_keywords": [
+            "厥阴经",
+            "相火",
+            "运展途径",
+            "两条途径",
+            "主要"
+        ],
+        "question_options": "A:脏内相传生肺火和脏腑相传达胆腑\nB:脏内相传生心火和脏腑相传达胃腑\nC:脏内相传生肾火和脏腑相传达胆腑\nD:脏内相传生心火和脏腑相传达脾脏\nE:脏内相传生心火和脏腑相传达胆腑\nF:脏内相传生肝火和脏腑相传达胆腑\nG:脏内相传生心火和脏腑相传达小肠\nH:脏内相传生心火和脏腑相传达膀胱\nI:脏内相传生心火和脏腑相传达大肠\nJ:脏内相传生心火和脏腑相传达三焦",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "厥阴经的相火有两条运展途径，一是“脏内相传，以生心火”，二是“脏腑相传，达于胆腑”，最终形成相火。因此，厥阴经的相火主要通过这两条途径进行运展。"
+    },
+    {
+        "question_id": "问题74",
+        "question": "根据风寒性质，伤卫与伤荣的表现有何不同？",
+        "question_keywords": [
+            "风寒性质",
+            "伤卫",
+            "伤荣",
+            "表现",
+            "不同"
+        ],
+        "question_options": "A:风性开散易伤卫导致恶寒无汗，寒性收引易伤荣导致恶风汗出\nB:风性开散易伤荣导致恶风汗出，寒性收引易伤卫导致恶寒无汗\nC:风性收敛易伤卫导致恶风汗出，寒性开散易伤荣导致恶寒无汗\nD:风性开散易伤卫导致发热汗出，寒性收引易伤荣导致恶寒身痛\nE:风性升散易伤卫导致头痛汗出，寒性凝滞易伤荣导致恶寒肢冷\nF:风性疏散易伤卫导致恶风发热，寒性闭塞易伤荣导致无汗身痛\nG:风性开散易伤卫导致恶风发热，寒性收引易伤荣导致恶寒呕吐\nH:风性轻扬易伤卫导致恶风汗出，寒性重浊易伤荣导致恶寒腹痛\nI:风性开散易伤卫导致恶风咽痛，寒性收引易伤荣导致恶寒关节痛\nJ:风性开散易伤卫导致恶风汗出，寒性收引易伤荣导致恶寒无汗",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "“风性开散，极易伤卫，则皮毛疏泄而外溢，故恶风汗出；寒性收引，寒恒见伤荣，则血络凝泣而内阻，故恶寒无汗。”说明了风寒对卫气和荣气的不同影响。"
+    },
+    {
+        "question_id": "问题235",
+        "question": "脾与肺在痰饮生成中的关系是什么？",
+        "question_keywords": [
+            "脾",
+            "肺",
+            "痰饮生成",
+            "关系"
+        ],
+        "question_options": "A:脾为贮痰之器，肺为生痰之源\nB:脾为化痰之本，肺为聚痰之所\nC:脾为生痰之源，肺为贮痰之器\nD:脾为湿邪之源，肺为痰饮之库\nE:脾为痰湿之根，肺为痰浊之府\nF:脾为痰饮之母，肺为痰液之子\nG:脾为痰浊之源，肺为痰湿之器\nH:脾为痰饮之始，肺为痰浊之终\nI:脾为痰湿之基，肺为痰饮之枢\nJ:脾为痰液之源，肺为痰湿之藏",
+        "question_answer": "C",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "D",
+        "explanation": "脾主运化水湿，若中焦健运力弱，则水谷津液失于输布而停滞成痰；肺主宣降，若肺气受阻，则上输之气血不能散降，亦可聚而成痰。因此，脾与肺在痰饮的生成过程中都起着重要作用，且二者母子相联，病机常相互影响。"
+    },
+    {
+        "question_id": "问题203",
+        "question": "太阴经主要负责什么功能？",
+        "question_keywords": [
+            "太阴经",
+            "主要功能"
+        ],
+        "question_options": "A:主外，行脉表\nB:主内，行脉表\nC:主外，行脉里\nD:主气，行脉里\nE:主内，行脉里\nF:主血，行脉表\nG:主气，行脉表\nH:主血，行脉里\nI:主外，行肌表\nJ:主内，行肌表",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "D",
+        "explanation": "文本中提到“营卫分职，营行脉里而主内，太阴所司”，说明太阴经主要负责营气在脉内的运行，主管内部的功能。"
+    },
+    {
+        "question_id": "问题256",
+        "question": "太冲主要与人体哪些脏腑和经络相关？",
+        "question_keywords": [
+            "太冲",
+            "人体脏腑",
+            "人体经络",
+            "主要相关"
+        ],
+        "question_options": "A:肝、肺、任脉\nB:心、脾、冲脉\nC:脾、胃、任脉\nD:肺、肾、督脉\nE:肾、肝、督脉\nF:胃、大肠、任脉\nG:胆、膀胱、冲脉\nH:大肠、小肠、任脉\nI:小肠、心、冲脉\nJ:膀胱、肝、督脉",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F;E",
+        "explanation": "文本中提到“人之元阳，根植于先天，滋育于后天，由命门元机点触，或督脉天阳激活，或肝经春气之冲荡，皆关冲气之营运，此即“后曰太冲”之蕴意焉。”，因此，太冲主要与命门（肾）、督脉、肝经相关，并且依赖关冲气营运。"
+    },
+    {
+        "question_id": "问题265",
+        "question": "天癸在人体中主要指的是什么？",
+        "question_keywords": [
+            "天癸",
+            "在人体中",
+            "主要所指"
+        ],
+        "question_options": "A:元阴或元炁\nB:肾精\nC:气血\nD:宗气\nE:营卫之气\nF:后天之精\nG:津液\nH:神气\nI:真阳\nJ:命门火",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "“天癸者何？乃天一所生之真精，乃阴阳合体也，在人身是谓元阴，亦曰元炁”，说明天癸在人体中主要指的是元阴或元炁。而肾为先天之本，藏元阴元阳，故与少阴经相关。"
+    },
+    {
+        "question_id": "问题269",
+        "question": "少阴经的主要功能与下列哪项密切相关？",
+        "question_keywords": [
+            "少阴经",
+            "主要功能",
+            "密切相关"
+        ],
+        "question_options": "A:温煦脏腑与推动气血\nB:宣发卫气与固护肌表\nC:升清降浊与运化水谷\nD:通调水道与排泄尿液\nE:藏精纳气与主骨生髓\nF:疏泄肝胆与调畅情志\nG:潜藏布阴与调谐阴阳\nH:宣发肃降与通调水道\nI:主血藏血与调节月经\nJ:统血摄血与主肌肉四肢",
+        "question_answer": "G",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "少阴在里主出，为阴枢，兼具水、火两性，其主要功能包括潜藏布阴和调谐阴阳。君火以明，主发令而不行令，运筹中帐，交合水火，调谐阴阳。"
+    },
+    {
+        "question_id": "问题109",
+        "question": "阳明胃经和太阴脾经共同主要负责人体的哪项功能？",
+        "question_keywords": [
+            "阳明胃经",
+            "太阴脾经",
+            "共同负责人体功能"
+        ],
+        "question_options": "A:气血生发与归藏\nB:宗气积于上焦\nC:营气出于中焦\nD:卫气出于下焦\nE:肺金主右降\nF:肝木主左升\nG:心阳下移而肾精升举\nH:水火之升降\nI:水谷运化与降气\nJ:肺辛金与肾癸水互为母子",
+        "question_answer": "I",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "文本中提到“太阴脾与阳明胃互为表里，共成中气水谷运化之升降”以及“凡涉降气者，皆关阳明焉”，说明阳明经在人体中主要负责水谷运化和降气的功能。"
+    },
+    {
+        "question_id": "问题34",
+        "question": "太阳经主要负责人体的哪一方面？",
+        "question_keywords": [
+            "太阳经",
+            "人体",
+            "主要功能"
+        ],
+        "question_options": "A:主司内脏和气血\nB:主司天表和卫气\nC:主司筋骨和津液\nD:主司情志和神志\nE:主司五脏和六腑\nF:主司营气和血液\nG:主司腠理和肌肉\nH:主司水液和代谢\nI:主司耳目和口鼻\nJ:主司心肺和呼吸",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "太阳经主管人体外表，是阳气的根本，其功能在于维持身体表面的防御和温煦作用。“太阳主卫，阳气之根基，太阳之气主天表也”，说明太阳经在人体中主要负责天表和卫气的功能。"
+    },
+    {
+        "question_id": "问题138",
+        "question": "阳明经证的典型脉象是？",
+        "question_keywords": [
+            "阳明经证",
+            "典型脉象"
+        ],
+        "question_options": "A:细弱、迟缓、沉紧\nB:弦细、濡缓、结代\nC:微细、芤虚、短促\nD:涩滞、结代、沉细\nE:弦紧、迟缓、滑数\nF:芤虚、散大、细弱\nG:洪大、滑、疾、浮数\nH:沉细、迟缓、微弱\nI:结代、促脉、细弱\nJ:弦细、濡缓、芤虚",
+        "question_answer": "G",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明经证由于气血旺盛，邪热内盛，导致脉象表现为洪大、滑、疾、浮数等特征。这些脉象反映了阳明经证燥实于内、阳热浮张的特点。"
+    },
+    {
+        "question_id": "问题206",
+        "question": "太阴经的主要特性是什么？",
+        "question_keywords": [
+            "太阴经",
+            "主要特性"
+        ],
+        "question_options": "A:主阖，司静\nB:主枢，司动静\nC:主开，司静\nD:主阖，司动\nE:主开，司动\nF:主枢，司动\nG:主开，司湿\nH:主阖，司燥\nI:主枢，司湿\nJ:主开，司凉",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "D",
+        "explanation": "“太阴主开”，“开者，动静之基也”。手太阴肺主布散，足太阴脾主运行，说明太阴经的主要特性是主开，负责身体的动态功能。"
+    },
+    {
+        "question_id": "问题162",
+        "question": "胆的主要功能与下列哪项密切相关？",
+        "question_keywords": [
+            "胆",
+            "主要功能",
+            "密切相关"
+        ],
+        "question_options": "A:藏血和调节血液\nB:宣发和肃降\nC:运化水谷和升清\nD:主气和司呼吸\nE:统血和主血脉\nF:疏泄和调畅情志\nG:主津液和通调水道\nH:主骨生髓和固摄精气\nI:受纳和腐熟水谷\nJ:决断和温养诸脏",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "胆为“中正之官”，具有决断的功能，同时胆气冲和，能够温养诸脏。因此，胆的主要功能之一是决断和温养诸脏。"
+    },
+    {
+        "question_id": "问题341",
+        "question": "厥阴病热证主要影响人体的哪个方面？",
+        "question_keywords": [
+            "厥阴病热证",
+            "主要影响",
+            "人体",
+            "方面"
+        ],
+        "question_options": "A:血分\nB:气分\nC:营分\nD:卫分\nE:津液\nF:阳气\nG:阴液\nH:脏腑\nI:经络\nJ:皮毛",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "原文提到“厥阴血脏，阴不胜阳，邪伏不宣，热匿血分”，并列举了多种由血热引起的症状，如口疮、便血、咯血等，均与血分相关。因此，厥阴病热证主要影响的是人体的血分。"
+    },
+    {
+        "question_id": "问题118",
+        "question": "阳明经的平脉特征是？",
+        "question_keywords": [
+            "阳明经",
+            "平脉",
+            "特征"
+        ],
+        "question_options": "A:洪大以沉，来涩而缓，小前大后，状如蚯蚓\nB:浮细而数，来急去缓，前后均匀，状如豆粒\nC:弦紧有力，来迟去速，前后不均，状如波浪\nD:细弱无力，来去缓慢，前后均匀，状如丝线\nE:滑数有力，来去迅速，前后均匀，状如珠串\nF:洪大以浮，来滑而跳，大前细后，状如科斗\nG:沉细而弱，来迟去缓，前后不均，状如蚊蚋\nH:浮大而空，来盛去衰，前后均匀，状如葱管\nI:濡软无力，来去缓慢，前后均匀，状如羽毛\nJ:芤虚而大，来迟去速，前后不均，状如竹竿",
+        "question_answer": "F",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明经的平脉特征被描述为“洪大以浮，其来滑而跳，大前细后，状如科斗”，这些特征反映了阳明经的生理状态。"
+    },
+    {
+        "question_id": "问题29",
+        "question": "太阳经的特性主要体现在哪两个脏腑？",
+        "question_keywords": [
+            "太阳经",
+            "特性",
+            "主要体现",
+            "两个",
+            "脏腑"
+        ],
+        "question_options": "A:心和肺\nB:肝和胆\nC:脾和胃\nD:肾和心包\nE:三焦和大肠\nF:肺和大肠\nG:心和小肠\nH:肝和肾\nI:小肠和膀胱\nJ:脾和肺",
+        "question_answer": "I",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "太阳经统摄水火，其中足太阳膀胱属水，手太阳小肠属火。虽然两者性质不同，但通过“离中之阴，水之根也，离阴潜降，下交坎位，化而为水”的过程，使得太阳经能够同时统摄水火，因此太阳经的特性主要体现在小肠和膀胱这两个脏腑上。"
+    },
+    {
+        "question_id": "问题167",
+        "question": "少阳经的正化与对化分别对应哪两个时辰？",
+        "question_keywords": [
+            "少阳经",
+            "正化",
+            "对化",
+            "对应",
+            "时辰"
+        ],
+        "question_options": "A:卯时为正化，酉时为对化\nB:子时为正化，午时为对化\nC:辰时为正化，戌时为对化\nD:巳时为正化，亥时为对化\nE:丑时为正化，未时为对化\nF:卯时为正化，午时为对化\nG:辰时为正化，酉时为对化\nH:寅时为正化，申时为对化\nI:巳时为正化，未时为对化\nJ:丑时为正化，亥时为对化",
+        "question_answer": "H",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "少阳经在寅时（3至5时）为正化，相火盛；而在申时（15至17时）为对化，相火弱。因此，少阳经的正化时辰是寅时，对化时辰是申时。"
+    },
+    {
+        "question_id": "问题329",
+        "question": "厥阴经在体位上位于哪一经之前？",
+        "question_keywords": [
+            "厥阴经",
+            "在体位上",
+            "位于哪一经之前"
+        ],
+        "question_options": "A:太阳\nB:阳明\nC:太阴\nD:少阳\nE:太阳与阳明\nF:阳明与太阴\nG:少阳与厥阴\nH:太阳与少阳\nI:少阴\nJ:太阴与少阴",
+        "question_answer": "I",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "厥阴经在少阴经之前，因为“少阴主水，水主生木，故厥阴在少阴之前”。同时，心包与肝是少阴的护卫，也说明了厥阴在少阴之前的位置关系。"
+    },
+    {
+        "question_id": "问题139",
+        "question": "阳明燥热的脉象特征是？",
+        "question_keywords": [
+            "阳明燥热",
+            "脉象特征"
+        ],
+        "question_options": "A:浮数相搏\nB:洪滑相兼\nC:弦紧相搏\nD:濡弱相兼\nE:迟缓相搏\nF:芤涩相兼\nG:浮紧相搏\nH:洪数相兼\nI:浮缓相搏\nJ:浮芤相搏",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明燥热时，阳邪盛则胃气生热，表现为脉浮；阴血虚则津液内伤，表现为脉芤。因此，阳明燥热的典型脉象为浮芤相搏。"
+    },
+    {
+        "question_id": "问题291",
+        "question": "心阳虚弱可能导致下列哪种症状？",
+        "question_keywords": [
+            "心阳虚弱",
+            "可能导致",
+            "症状"
+        ],
+        "question_options": "A:胸闷气短，面色潮红\nB:头晕目眩，口干舌燥\nC:胸闷心悸，自汗背冷\nD:心烦失眠，小便黄赤\nE:腹胀便溏，食欲不振\nF:肢体麻木，关节疼痛\nG:咳嗽痰多，声音嘶哑\nH:恶心呕吐，胃脘胀满\nI:腰膝酸软，夜尿频多\nJ:头痛眩晕，耳鸣如蝉",
+        "question_answer": "C",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "心属少阴，心阳虚弱会导致宗气不布，阴邪僭居，从而出现胸闷心悸、自汗背冷等症状。这些症状反映了心阳不足时，心主血脉的功能受到影响。"
+    },
+    {
+        "question_id": "问题237",
+        "question": "少阳经的痰病多表现为哪种类型？",
+        "question_keywords": [
+            "少阳经",
+            "痰病",
+            "多表现",
+            "类型"
+        ],
+        "question_options": "A:热痰、老痰、郁痰\nB:湿痰、寒痰、风痰\nC:惊痰、食积痰、酒痰\nD:气痰、老痰、湿痰\nE:寒痰、热痰、风痰\nF:湿痰、寒痰、郁痰\nG:热痰、湿痰、风痰\nH:老痰、气痰、食积痰\nI:湿痰、寒痰、惊痰\nJ:热痰、风痰、食积痰",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "少阳经的痰病主要由于胆经失畅，相火内郁，清气精微炼而成浊，形成痰滞。因此，少阳经的痰病多表现为热痰、老痰和郁痰，与太阴经多湿痰、寒痰有所不同。"
+    },
+    {
+        "question_id": "问题287",
+        "question": "少阴热化证的主要病机是什么？",
+        "question_keywords": [
+            "少阴热化证",
+            "主要病机"
+        ],
+        "question_options": "A:阳虚而寒盛，津液停滞\nB:阴虚而火衰，水液泛滥\nC:阴盛而火弱，水液过多\nD:阳亢而阴虚，津液耗损\nE:阴虚而阳亢，津液不足\nF:阳虚而阴盛，水液凝滞\nG:阴虚而阳虚，津液亏损\nH:阳盛而阴虚，水液过少\nI:阴虚而火弱，津液减少\nJ:阴少而火盛，水液枯耗",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "F",
+        "explanation": "少阴热化证的核心病机是“阴少而火盛，水液枯耗”，即肾阴不足导致内火旺盛，进而消耗体内的津液。这种情况下，患者容易出现发热、口干欲饮等症状，与阳明热证相比，虽然两者表现有异，但都涉及阴液的损伤。"
+    },
+    {
+        "question_id": "问题349",
+        "question": "厥阴经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "厥阴经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:调节水谷的运化与输布\nB:调节津液的生成与代谢\nC:调节营卫的和谐与固护\nD:调节气机的升降与出入\nE:调节精气的封藏与施泄\nF:调节阴阳的消长与平衡\nG:调节神志的兴奋与抑制\nH:调节经脉的通畅与濡养\nI:调节血液的收放与布展\nJ:调节水道的通调与排泄",
+        "question_answer": "I",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "“厥阴藏血，收放自如，布展为职”，说明厥阴经主要负责调节血液的收藏与分布。同时，“木气条达，以通疏泄之路”也表明厥阴经通过调节气血运行来维持身体的正常功能。"
+    },
+    {
+        "question_id": "问题274",
+        "question": "三焦的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "三焦",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:司水液游行于上下，通会于腠理\nB:司气机升降于内外，通会于腠理\nC:主气血运行于上下，通会于经络\nD:掌管精微输布于脏腑，通会于血脉\nE:调畅情志活动于心神，通会于脑髓\nF:主持津液代谢于肺脾，通会于肌表\nG:调节阴阳平衡于内外，通会于筋骨\nH:控制水谷消化于脾胃，通会于四肢\nI:统摄血液运行于脉中，通会于皮毛\nJ:管理气化功能于肾膀胱，通会于头面",
+        "question_answer": "A",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "三焦具有少阳相火之气，能够发自少阴君火，主要负责水液在体内的运行和分布，通过三焦使水液上下流通，并通达于腠理。因此，三焦的主要生理功能是司水液的游行和通会于腠理。"
+    },
+    {
+        "question_id": "问题88",
+        "question": "阳明经的主要特征是什么？",
+        "question_keywords": [
+            "阳明经",
+            "主要特征"
+        ],
+        "question_options": "A:两阳合阴，阳旺气阖\nB:三阳并盛，阳明为弱\nC:一阳独盛，阳明气开\nD:两阳合明，阳旺气阖\nE:两阴相合，阳明气阖\nF:太阳少阳，阳气分散\nG:阳明厥阴，阴阳平衡\nH:阳明太阴，气机升降\nI:阳明少阴，阳气收敛\nJ:阳明主表，阳气外泄",
+        "question_answer": "D",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明为三阳之盛，其特点是“两阳合明”，即太阳和少阳的阳气在此汇聚，形成旺盛的阳气。这种阳气旺盛的状态被称为“阖”，意味着阳明经具有较强的阳气活动特性。"
+    },
+    {
+        "question_id": "问题37",
+        "question": "太阳经与太阴经在水液代谢中主要负责什么功能？",
+        "question_keywords": [
+            "太阳经",
+            "太阴经",
+            "水液代谢",
+            "主要功能"
+        ],
+        "question_options": "A:主闭，固摄气化与升提输布\nB:主阖，收敛气化与升提输布\nC:主降，宣发气化与肃降渗灌\nD:主升，宣发气化与升提输布\nE:主散，宣发气化与疏泄渗灌\nF:主藏，固摄气化与敛藏渗灌\nG:主开，宣发气化与肃降渗灌\nH:主润，滋养气化与濡润渗灌\nI:主通，疏通气化与通行渗灌\nJ:主纳，收纳气化与归聚渗灌",
+        "question_answer": "G",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A;D",
+        "explanation": "太阳经和太阴经都具有“主开”的功能。太阳经通过卫气的升腾作用来宣发气化，张合毛窍，滋养皮腠；而太阴经则通过卫气的展疏沉潜作用来肃降渗灌，开通三焦，柔涵脏腑。两者共同参与水液代谢，确保津液的正常生成与分布。"
+    },
+    {
+        "question_id": "问题137",
+        "question": "痞证主要涉及哪两条经脉的合病？",
+        "question_keywords": [
+            "痞证",
+            "主要涉及",
+            "两条经脉",
+            "合病"
+        ],
+        "question_options": "A:太阳阳明合病\nB:少阳太阴合病\nC:太阳少阴合病\nD:阳明厥阴合病\nE:阳明太阴合病\nF:少阳厥阴合病\nG:太阳太阴合病\nH:少阳少阴合病\nI:阳明少阴合病\nJ:厥阴太阴合病",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C;D",
+        "explanation": "痞证由“阳蓄”和“阴伏”导致，具体表现为“阳明过阖，太阴失开”，且症状包括胸脘痞满、呕逆、吐酸等。因此，痞证主要是阳明与太阴两条经脉的合病。"
+    },
+    {
+        "question_id": "问题108",
+        "question": "阳明经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "阳明经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:宣发卫气，温煦肌肤\nB:升清降浊，调和气血\nC:疏泄肝胆，调畅情志\nD:疏泄胆气，调畅情志\nE:通降肠胃，传化糟粕\nF:温煦脏腑，推动气血\nG:通调水道，下输膀胱\nH:纳气归肾，固摄精气\nI:宣肺散邪，通调水道\nJ:温补脾阳，健运中焦",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "C",
+        "explanation": "阳明经主于肠胃，负责中焦的通降功能，使得谷气得以转化，清气上升输于脾，浊气下降传于肠，从而实现传化糟粕和排除秽浊的作用。"
+    },
+    {
+        "question_id": "问题182",
+        "question": "少阳虚寒证的形成原因是什么？",
+        "question_keywords": [
+            "少阳虚寒证",
+            "形成原因"
+        ],
+        "question_options": "A:标本不足，阳气衰微\nB:标本俱虚，阴气过盛\nC:标本失调，湿邪内蕴\nD:标本不足，痰湿阻滞\nE:标本皆虚，寒湿困脾\nF:标本不足，火气上炎\nG:标本不足，血瘀阻络\nH:标本不足，风邪侵袭\nI:标本不足，燥邪伤津\nJ:标本不足，承气来复",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "少阳标本皆为阳，但若标本不足，阴性的承气来复，则会形成少阳虚寒证。"
+    },
+    {
+        "question_id": "问题190",
+        "question": "少阳受病时，脉象主要表现为？",
+        "question_keywords": [
+            "少阳受病",
+            "脉象主要表现"
+        ],
+        "question_options": "A:尺寸俱浮\nB:尺寸俱沉\nC:尺寸俱滑\nD:尺寸俱紧\nE:尺寸俱数\nF:尺寸俱迟\nG:尺寸俱芤\nH:尺寸俱缓\nI:尺寸俱弦\nJ:尺寸俱微",
+        "question_answer": "I",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "B",
+        "explanation": "当邪气侵入少阳，导致卫气不能外出、营气不能内入时，会出现郁滞现象。这种情况下，阳气被郁，脉象会呈现弦象，即“尺寸俱弦”。这是少阳受病的典型脉象表现。"
+    },
+    {
+        "question_id": "问题84",
+        "question": "卫表失固易导致下列哪种情况？",
+        "question_keywords": [
+            "卫表失固",
+            "易导致"
+        ],
+        "question_options": "A:内热盛发\nB:外邪易侵\nC:气血两虚\nD:营卫不和\nE:肌腠开泄\nF:表阳不足\nG:肺肾两虚\nH:太阳经虚\nI:腠理空疏\nJ:气阴两虚",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "“卫表失固者，丧其守卫之能，门户尽失，外寇易犯耳”，说明卫气虚弱时，人体的防御功能下降，容易受到外邪的侵袭。"
+    },
+    {
+        "question_id": "问题187",
+        "question": "浮于太阳经时，患者可能出现的症状是？",
+        "question_keywords": [
+            "浮于太阳经时",
+            "症状"
+        ],
+        "question_options": "A:头痛、目痛\nB:头项痛、腰痛如折\nC:鼻塞、流涕\nD:咽痛、咳嗽\nE:胸闷、心悸\nF:腹胀、便秘\nG:四肢酸痛\nH:口干、舌燥\nI:恶心、呕吐\nJ:腹泻、便溏",
+        "question_answer": "B",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "“浮于太阳，则头项痛、腰痛如折”，说明当病邪影响到太阳经时，患者可能会出现头部和颈部疼痛以及腰部疼痛如折断般的感觉。"
+    },
+    {
+        "question_id": "问题233",
+        "question": "根据《素问·至真要大论》，“诸痉项强”主要与哪种邪气相关？",
+        "question_keywords": [
+            "《素问·至真要大论》",
+            "诸痉项强",
+            "邪气",
+            "主要相关"
+        ],
+        "question_options": "A:寒\nB:风\nC:火\nD:燥\nE:热\nF:暑\nG:痰\nH:瘀\nI:气\nJ:湿",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "“诸痉项强，皆属于湿”，并进一步说明了湿土之气过盛会导致风木之气克制，从而产生痉象。因此，该症状主要与湿邪有关。"
+    },
+    {
+        "question_id": "问题321",
+        "question": "厥阴经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "厥阴经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:阳气升发与卫外固表\nB:精血贮藏与濡养筋脉\nC:胆气疏泄与决断\nD:肝气畅达与疏泄\nE:脾胃运化与升清\nF:肺气宣降与肃清\nG:肾气封藏与固摄\nH:心气推动与温煦\nI:膀胱气化与排泄\nJ:三焦通调与水道",
+        "question_answer": "D",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "“厥阴舒和，肝气畅达”，说明厥阴经主要负责肝气的条达与疏泄功能，使精气柔养、魂魄安宁。"
+    },
+    {
+        "question_id": "问题315",
+        "question": "厥阴经的主要生理功能与下列哪项密切相关？",
+        "question_keywords": [
+            "厥阴经",
+            "主要生理功能",
+            "密切相关"
+        ],
+        "question_options": "A:调节气血及津液\nB:藏精及调节气机\nC:藏气及调节水液\nD:藏血及调节血流\nE:藏血及调节津液\nF:藏津液及调节气机\nG:藏气及调节血流\nH:藏精及调节血流\nI:藏津液及调节血流\nJ:藏血及调节气机",
+        "question_answer": "D",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "文本中提到“厥阴主藏血，肝如之，心包亦如之”，并且进一步说明了心包作为上血海，负责调畅膻中的血流。因此，厥阴经的核心功能之一是藏血以及通过心包来调节全身的血流。"
+    },
+    {
+        "question_id": "问题52",
+        "question": "太阳经的脉象特征是什么？",
+        "question_keywords": [
+            "太阳经",
+            "脉象特征"
+        ],
+        "question_options": "A:沉紧而弦\nB:细弱无力\nC:沉迟而紧\nD:弦细而短\nE:洪大以长\nF:缓软而濡\nG:涩滞不畅\nH:芤虚而散\nI:微弱欲绝\nJ:结代不定",
+        "question_answer": "E",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "A",
+        "explanation": "太阳经的脉象特征是“洪大以长”，其中“洪”表示势盛，“大”表示形阔，“长”表示位宽。这种脉象反映了阳气有余的状态，是太阳经主开的表现。"
+    },
+    {
+        "question_id": "问题337",
+        "question": "厥阴病的主要症状是什么？",
+        "question_keywords": [
+            "厥阴病",
+            "主要症状"
+        ],
+        "question_options": "A:头痛发热\nB:腹痛腹泻\nC:恶寒发热\nD:口干舌燥\nE:胸闷心悸\nF:咳嗽咳痰\nG:恶心呕吐\nH:小便不利\nI:大便溏泄\nJ:手足逆冷",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "厥阴主阴阳交接，当阴阳气不相顺接时便会出现厥证，其主要表现为手足逆冷。无论是寒厥还是热厥，都会出现手足逆冷的症状。"
+    },
+    {
+        "question_id": "问题304",
+        "question": "肝气郁结可能导致下列哪种妇科疾病？",
+        "question_keywords": [
+            "肝气郁结",
+            "可能导致",
+            "妇科疾病"
+        ],
+        "question_options": "A:月经先期、崩漏不止\nB:带下清稀、腰膝酸冷\nC:妊娠水肿、小便不利\nD:产后发热、恶露臭秽\nE:不孕不育、精冷稀少\nF:经行吐血、衄血不止\nG:经行身痛、关节痹痛\nH:更年期潮热、五心烦热\nI:症瘕积聚、少腹冷痛\nJ:月经后期、痛经闭经",
+        "question_answer": "J",
+        "six_meridian_options": "A:太阳;B:少阳;C:阳明;D:太阴;E:厥阴;F:少阴",
+        "six_meridian_answer": "E",
+        "explanation": "“肝气郁结，冲任失畅，血海失蓄，则胞脉失养，天癸失发”，导致一系列妇科问题，如卵子不长、排卵障碍、月经后期、痛经闭经等。因此，肝气郁结与月经后期和痛经闭经密切相关。"
+    }
+]

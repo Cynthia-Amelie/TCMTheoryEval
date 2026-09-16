@@ -1,0 +1,26 @@
+﻿# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and build artefacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local model checkpoints and temporary outputs
+models/
+results/*.tmp
+
+# Unpublished manuscript draft (add a released manuscript deliberately if desired)
+tcmtheoryeval.pdf
+data/test_labels_private.json
